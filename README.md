@@ -1,6 +1,6 @@
 # BNBuyback
 
-![BNBuyback](bnbuyback.png)
+![BNBuyback](BNBuyback.png)
 
 **Automated On-Chain Buyback Execution Infrastructure for BNB Chain**
 
@@ -545,5 +545,6 @@ For security vulnerabilities, please contact the maintainers directly.
 ---
 
 **BNBuyback**: Deterministic buyback execution infrastructure for BNB Chain.
+
 
 Repository maintained by the BNBuyback development team.
